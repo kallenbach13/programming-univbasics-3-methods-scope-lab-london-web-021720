@@ -9,8 +9,8 @@ def toadstool
 end
 
 def link
-  phrase = "It's Dangerous To Go Alone! Take This."
-  puts phrase
+  adventure = "It's Dangerous To Go Alone! Take This."
+  puts adventure
 end
 
 def any_phrase(phrase)
